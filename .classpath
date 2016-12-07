@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="bully"/>
+	<classpathentry kind="src" path="franklin"/>
+	<classpathentry kind="src" path="mackawa"/>
+	<classpathentry kind="src" path="mackawa2"/>
+	<classpathentry kind="src" path="ricart"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
